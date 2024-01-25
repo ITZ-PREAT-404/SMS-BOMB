@@ -1,2 +1,2 @@
 import SMS
-primiam()
+SMS.primiam()
