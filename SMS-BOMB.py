@@ -1,1 +1,2 @@
 import SMS
+primiam()
